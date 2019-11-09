@@ -11,5 +11,5 @@ The overall goal of this assignment is to implement a Rails application using mo
 
 The functional goal is to provide web page access to recipe information served by www.food2fork.com through JSON and images. Documentation for the API can be found at http://www.food2fork.com/about/api .
 
------------
+------------
 
