@@ -5,7 +5,7 @@ class Recipe
 
   base_uri "https://www.food2fork.com/api"
 
-  default_params key: ENV["b05b3e707a18600fb0118d1651ecea3b"]
+  default_params key: ENV["XXX"]
   format :json
 
   def self.for (keyword)
